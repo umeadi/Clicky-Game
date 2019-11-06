@@ -3,6 +3,13 @@
         "id": 1,
         "image": "http://www.powerpyx.com/wp-content/uploads/dragon-ball-fighterz-goku-ssgss.jpg",
         "clicked": false
+    },
+
+    {
+        "id": 2,
+        "image": "http://www.powerpyx.com/wp-content/uploads/dragon-ball-fighterz-goku-ssgss.jpg",
+        "clicked": false
     }
+
     
 ]
